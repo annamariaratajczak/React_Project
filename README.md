@@ -1,4 +1,4 @@
-# simplesurance Frontend Challenge WZ
+# Frontend Challenge WZ
 
 ## Run instructions
 
