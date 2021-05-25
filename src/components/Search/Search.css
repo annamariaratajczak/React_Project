@@ -1,0 +1,12 @@
+.search input {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 12px;
+  border: 0.5px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+}
+
+.search input:focus {
+  outline: none;
+}
